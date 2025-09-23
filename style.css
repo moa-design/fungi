@@ -271,7 +271,7 @@ background-repeat:none;}
     margin: auto;
     justify-content:space-between;    
     text-align: center;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2), transparent) , url(".assets/img/confianza.webp");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), transparent) , url("./assets/img/confianza.webp");
 background-size: cover;
 background-repeat:none;
     }
